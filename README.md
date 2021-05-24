@@ -8,6 +8,6 @@ Card Animated with CSS only
 - Keyboard navigation
 - Disabled animations.
 
-View in browse:  https://originalthinks.github.io/Card-Animated/
+View in browser:  https://originalthinks.github.io/Card-Animated/
 
 
